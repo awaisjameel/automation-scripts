@@ -6,7 +6,7 @@
 
 # Executable Script: 
 # Connect to your EC2 instance via SSH and download the script:
-# wget https://raw.githubusercontent.com/awaisjameel/automation-scripts/main/vpn-proxy/v2ray-vless-ws-tls-caddy-auto-install-ubuntu.sh
+# wget https://github.com/awaisjameel/automation-scripts/blob/bd65a4bef7e10b7066a756ed4fbe477d7ef213b7/vpn-porxy/v2ray-vless-ws-tls-caddy-auto-install-ubuntu.sh
 # sudo chmod +x v2ray-vless-ws-tls-caddy-auto-install-ubuntu.sh
 # sudo bash v2ray-vless-ws-tls-caddy-auto-install-ubuntu.sh
 
